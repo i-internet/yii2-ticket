@@ -24,8 +24,7 @@
         "php": ">=5.6",
         "rmrevin/yii2-fontawesome": "^3.4.0",
         "sandritsch91/yii2-widget-flatpickr": "^1.0.0",
-        "bower-asset/autosize": "^4.0.2",
-        "bower-asset/resumablejs": "^1.1.0"
+        "bower-asset/autosize": "^4.0.2"
     },
     "require-dev": {
         "fortawesome/font-awesome": "^5.10.0",
